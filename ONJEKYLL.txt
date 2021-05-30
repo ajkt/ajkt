@@ -51,6 +51,7 @@ a minimal front matter:
 ---
 is NECESSARY for liquid tags to be processed
 
+Gemfiles loaded in from main folder
 
 # Debugging
 
