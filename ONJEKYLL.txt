@@ -34,8 +34,8 @@ for text: append, concat, downcase, escape, ...
 
 {{ page.tags | array_to_sentence_string }}
 
-{{ page.tags | array_to_sentence_string: "or" }}
 
+{{ page.tags | array_to_sentence_string: "or" }}
 
 # Front matter
 
