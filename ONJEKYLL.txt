@@ -62,5 +62,9 @@ check in _site directory what was built
 
 go to: 127.0.0.1:4000
 
+# If Newly Cloned
 
+> bundle init 
+
+to create Gemfile
 
